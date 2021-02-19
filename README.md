@@ -27,3 +27,17 @@ output = [4, 6, 10]
 Explanation
 
 On days 4, 5, and 6, we had total revenue of $100, $150, and $210 respectively. Day 6 is the first time that we had >= $200 of total revenue.
+
+
+---
+**INSTRUCTIONS:**
+
+Fork this repo to your own. Create a solution to the problem. The test cases will prove whether your solution is correct.
+
+
+**MY IDE IS THROWING ERRORS WHEN FIRST LOADING THIS CODE**
+
+That's right. It's incomplete. Its your job to fill in the blanks.
+
+**WHY DOES THIS README LOOK TERRIBLE**
+fine. do a fork/ readme fix up / PR to here and I'll accept it.
